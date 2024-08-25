@@ -1,4 +1,6 @@
 # bigstep_TECH-A-THON_2024
+TEAM NAME: BIGSTEP
+TEAM MEMBERS: MUKKARAM,KARTHIKEYAN,C KAVIYA
 SETUP INSTRUCTIONS:
 This chatbot application can be executed in the google collab environment or Anaconda IDE or VS code. 
 OpenAI API key subscription is required
